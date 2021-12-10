@@ -1,2 +1,1 @@
-# burgerbuilderapp
-Burger Builder app
+A react based Burger Builder app
