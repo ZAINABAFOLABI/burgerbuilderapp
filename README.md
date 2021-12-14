@@ -1,1 +1,1 @@
-A react based Burger Builder app
+ Burger Builder App coded with React framework
